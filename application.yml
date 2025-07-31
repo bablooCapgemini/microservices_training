@@ -1,2 +1,5 @@
-spring:
-application:
+user:
+  role: Admin
+
+welcome:
+  message: Welcome to the Spring Cloud Config managed application!
